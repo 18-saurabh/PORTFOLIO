@@ -40,7 +40,6 @@ const Navbar = () => {
 
   return (
     <motion.nav
-      className="navbar"
       initial={{ y: -100 }}
       animate={{ y: 0 }}
       className={`navbar fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
@@ -76,7 +75,7 @@ const Navbar = () => {
           {/* Mobile Menu Button */}
           <button
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-           className="md:hidden text-gray-300"
+            className="md:hidden text-gray-300"
           >
             {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
           </button>

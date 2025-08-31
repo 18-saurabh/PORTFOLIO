@@ -61,7 +61,7 @@ const Hero = () => {
           >
             <div className="w-32 h-32 mx-auto rounded-full overflow-hidden shadow-xl relative z-10">
               <img
-                src="https://media.licdn.com/dms/image/v2/D4D03AQFJBfaPfXP46Q/profile-displayphoto-shrink_800_800/B4DZV5mQ8AG4Ac-/0/1741501830169?e=1756339200&v=beta&t=FB2SICVL2THyWZFHRvwp1F8aymRWi_yy1Sf1bLHGT9c"
+                src="https://media.licdn.com/dms/image/v2/D4D03AQFJBfaPfXP46Q/profile-displayphoto-shrink_800_800/B4DZV5mQ8AG4Ac-/0/1741501830169?e=1759363200&v=beta&t=4MQ0p1I7d4iEutWLeD9Id4EMsMm0qqUQYS_XUa8g73Y"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
